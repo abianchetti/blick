@@ -3,7 +3,8 @@ Blick
 
 Open Source Gaze Tracker
 
-    by Arturo Bianchetti
+    by Arturo Bianchetti and Silvia Comastri
+    
     Developed using OpenCV and cvblob (Cristobal Carnero Li\~nan)
     Capabilities:   - gaze tracking.
                     - pupil diameter measurement.
