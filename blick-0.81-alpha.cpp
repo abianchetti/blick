@@ -128,7 +128,7 @@ char* DataEnter(const char* windowText, const char* screenText)
                 cvPutText(blackScreen, screenText, cvPoint(10, 50), &font, CV_RGB(0,255,0));
                 keyHit = (cvWaitKey( 1 )&0xff);
                 switch (keyHit) {
-                    case 8: if (strlen(concatData) >= 1)concatData[strlen(concatData)-1]='\0';
+                    case 13: if (strlen(concatData) >= 1)concatData[strlen(concatData)-1]='\0';
                         break;
                     case 10: loop = 0;
                         break;
