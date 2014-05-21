@@ -11,6 +11,12 @@ Open Source Gaze Tracker
                     - video rendering.
 
     License: You can download, use, modify and distribute this software under the terms of GNU GPL license.
+    
+    
+Related Publications:
+
+Bianchetti, Arturo, Liliana I. Perez, and Silvia A. Comastri. "Development of a low cost pupillometer-eyetracker and applications." 8th Ibero American Optics Meeting/11th Latin American Meeting on Optics, Lasers, and Applications. International Society for Optics and Photonics, 2013.
+
 
 Citation: if you want to cite this software use the following bibtex entry.
 
